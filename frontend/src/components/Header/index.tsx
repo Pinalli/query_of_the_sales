@@ -9,7 +9,7 @@ function Header() {
             <h1>QuerySales</h1>
             <p>
               Desenvolvido por 
-              <a href="https://github.com/Pinalli">@Pinalli</a>
+              <a href="https://github.com/Pinalli"> @Pinalli</a>
             </p>
         </div>
     </header>
